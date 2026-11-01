@@ -24,3 +24,9 @@ information easier to understand.
 - **Python Chatbot:** Developed a command-line chatbot that allows users to ask questions about birds and add new bird information.
 - **CampusConnect:** Worked on a Flask application involving user authentication, campus events, and database integration.
 - **Titanic Data Analysis:** Explored a passenger dataset and practiced feature engineering by creating features such as passenger titles, family size, and age groups.
+
+## 📫 Let's Connect
+
+- **GitHub:** [KavonAllen](https://github.com/KavonAllen)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/kavon-allen-057781204/)
+- **Portfolio:** Currently developing and improving my personal portfolio website.
