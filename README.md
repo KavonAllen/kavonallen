@@ -11,3 +11,16 @@ information easier to understand.
 - **Frameworks:** Flask
 - **Tools:** Visual Studio Code, Git, GitHub
 - **Currently Learning:** Data analysis, JavaScript development, database management, and software development practices
+
+## 🌱 Current Goals & Projects
+- Continue developing my Python programming and problem-solving skills.
+- Improve my knowledge of data analysis and working with datasets.
+- Build and improve responsive websites using HTML, CSS, and JavaScript.
+- Develop applications using Python, Flask, and SQL databases.
+- Strengthen my understanding of Git and GitHub through consistent commits and project development.
+
+## Projects I've Worked On
+- **Personal Portfolio Website:** Created a responsive website using HTML and CSS to showcase my background, projects, and technical interests.
+- **Python Chatbot:** Developed a command-line chatbot that allows users to ask questions about birds and add new bird information.
+- **CampusConnect:** Worked on a Flask application involving user authentication, campus events, and database integration.
+- **Titanic Data Analysis:** Explored a passenger dataset and practiced feature engineering by creating features such as passenger titles, family size, and age groups.
