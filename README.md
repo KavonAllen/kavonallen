@@ -30,3 +30,15 @@ information easier to understand.
 - **GitHub:** [KavonAllen](https://github.com/KavonAllen)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/kavon-allen-057781204/)
 - **Portfolio:** Currently developing and improving my personal portfolio website.
+
+## ⚡ A Little About Me
+
+- 🎮 I enjoy gaming
+- 💻 I'm always interested in learning something new about technology.
+- 🧩 I enjoy problem-solving and figuring out how things work.
+- 📈 I'm interested in how data can be used to identify patterns and make better decisions.
+- 🚀 My goal is to keep growing as a developer and eventually build a career in data analytics.
+
+---
+
+*Thanks for visiting my profile! I'm always learning, and looking for opportunities to grow.*
